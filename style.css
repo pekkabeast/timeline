@@ -1,0 +1,34 @@
+.card{
+    
+}
+
+body{
+    display:grid;
+    grid-template-rows: 1fr 3fr 2fr 1fr;
+    grid-template-columns: 3fr 1fr;
+    grid-template-areas:
+    "header header"
+    "field deck"
+    "hand hand"
+    "footer footer"
+}
+
+#field{
+    grid-area: field;
+    border-style: solid;
+}
+
+#deck{
+    grid-area:deck;
+    border-style: solid;
+}
+
+#hand{
+    grid-area: hand;
+    border-style: solid;
+}
+
+#footer{
+    grid-area:footer;
+    border-style: solid;
+}
