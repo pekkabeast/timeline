@@ -1,5 +1,7 @@
 .card{
-    
+    height: 200px;
+    width: 150px;
+    border-style: solid;
 }
 
 body{
@@ -16,11 +18,13 @@ body{
 #field{
     grid-area: field;
     border-style: solid;
+    padding: 20px;
 }
 
 #deck{
     grid-area:deck;
     border-style: solid;
+    padding: 20px;
 }
 
 #hand{
