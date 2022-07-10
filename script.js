@@ -24,3 +24,15 @@ class playerCard extends React.Component {
 
 
 }
+
+class startButton extends React.Component {
+    constructor(props){
+        super(props);
+    }
+
+    render(){
+        return(
+            
+        )
+    }
+}

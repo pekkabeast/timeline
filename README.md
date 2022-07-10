@@ -1,3 +1,4 @@
-# Timeline
+# timeline
 
-This is a readme. 
+
+Creating Timeline game by Gemin Beast Choi and Victor Beast Chan
